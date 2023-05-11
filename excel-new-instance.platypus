@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AcceptsFiles</key>
+	<true/>
+	<key>AcceptsText</key>
+	<false/>
+	<key>Authentication</key>
+	<false/>
+	<key>Author</key>
+	<string>Flavien Scheurer</string>
+	<key>BundledFiles</key>
+	<array/>
+	<key>Creator</key>
+	<string>Platypus-5.4.1</string>
+	<key>DeclareService</key>
+	<false/>
+	<key>Destination</key>
+	<string>./Excel (new instance).app</string>
+	<key>DevelopmentVersion</key>
+	<false/>
+	<key>DocIconPath</key>
+	<string></string>
+	<key>Droppable</key>
+	<true/>
+	<key>ExecutablePath</key>
+	<string>/usr/local/share/platypus/ScriptExec</string>
+	<key>IconPath</key>
+	<string>./excel.icns</string>
+	<key>Identifier</key>
+	<string>net.cyann.excel-new-instance</string>
+	<key>InterfaceType</key>
+	<string>None</string>
+	<key>InterpreterArgs</key>
+	<array/>
+	<key>InterpreterPath</key>
+	<string>/bin/sh</string>
+	<key>Name</key>
+	<string>Excel (new instance)</string>
+	<key>NibPath</key>
+	<string>/usr/local/share/platypus/MainMenu.nib</string>
+	<key>OptimizeApplication</key>
+	<true/>
+	<key>Overwrite</key>
+	<true/>
+	<key>PromptForFileOnLaunch</key>
+	<false/>
+	<key>RemainRunning</key>
+	<false/>
+	<key>RunInBackground</key>
+	<false/>
+	<key>ScriptArgs</key>
+	<array/>
+	<key>ScriptPath</key>
+	<string>./excel-new-instance.sh</string>
+	<key>SendNotifications</key>
+	<false/>
+	<key>Suffixes</key>
+	<array/>
+	<key>UniformTypes</key>
+	<array>
+		<string>org.openxmlformats.spreadsheetml.sheet</string>
+	</array>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>
