@@ -9,9 +9,9 @@ which allows for undo operations on a spreadhseet without impact on
 the other loaded spreadheets.
 
 ## Installation
-Download, extract, and drag **Excel (new instance).app** to **Applications**.
+Download [excel-new-instance.zip](https://github.com/cyann/excel-new-instance/releases/download/v1.0.0/excel-new-instance.zip), extract, and drag the app **Excel (new instance).app** to **Applications**.
 
-## Usage.
+## Usage
 1. Right-click on an Excel file and select **Open with** > **Excel (new instance)**
 2. Or launch **Excel (new instance)** and open or create a new file
 
